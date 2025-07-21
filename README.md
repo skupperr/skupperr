@@ -61,7 +61,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
     <img src="https://yt3.googleusercontent.com/7aMstlSvB1R2xAAOxF91vHWtAX2bhptsv6ROXPglCOyax0HKc8AATSYbqKr-10u4WvJ-e08b7Qg=s900-c-k-c0x00ffffff-no-rj" alt="LangChain" width="45" height="45" style="border-radius:10px;" />
     <img src="https://cdn.brandfetch.io/idXAOOKs8W/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1745440282319" alt="Ultralytics" width="45" height="45" style="border-radius:10px;" />
-    <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="streamlit" width="45" height="45" style="border-radius:10px; object-fit: cover;" />
+    <img src="https://media2.dev.to/dynamic/image/width=512,height=512,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="streamlit" width="45" height="45" style="border-radius:10px; object-fit: cover;" />
     <br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,tailwind" />
     <br><br>
@@ -93,7 +93,7 @@
 <h3 align="center">📊 Data Analytics 📊</h3>
 <div align="center">
     <img src="image/bi.png" alt="" width="40" height="40" />
-    <img src="image/excel.png" alt="" width="40" height="40" />
+    <img src="image/ex.png" alt="" width="40" height="40" />
     <br>
 </div>
 <br>
