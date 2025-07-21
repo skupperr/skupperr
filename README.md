@@ -66,11 +66,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,tailwind" />
     <br><br>
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" alt="beautifulsoup" height="45" style="border-radius:10px; object-fit: cover;" />
-    <img src="https://media.licdn.com/dms/image/v2/D5612AQFeUcKQu3LICg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721876592322?e=2147483647&v=beta&t=8Z-dMuFDmPsdNMVLvqDgbqtxAeEz4GWwHcaQQxLTzlc" alt="playwright" width="45" height="45" style="border-radius:10px; object-fit: cover;" />
+    <img src="image/playwright.png" alt="playwright" width="45" height="45"/>
     <br><br>
-    <img src="https://raw.githubusercontent.com/kmajhi/java-swing/main/java%20swing.png" alt="java" width="45" height="45" style="border-radius:10px; object-fit: cover;" />
-    <img src="https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png" alt="" width="45" height="45" style="border-radius:10px; object-fit: cover;" />
-    <img src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" alt="" width="45" height="45" style="border-radius:10px; object-fit: cover;">
+    <img src="image/java swing.png" alt="java" width="45" height="45" />
+    <img src="image/fx.jpg" alt="" width="45" height="45" />
+    <img src="image/tk.jpg" alt="" width="45" height="45" />
 </div>
 <br>
 
@@ -92,8 +92,8 @@
 
 <h3 align="center">📊 Data Analytics 📊</h3>
 <div align="center">
-    <img src="image/bi.png" alt="" width="40" height="40" style=" object-fit: cover;" />
-    <img src="image/excel.png" alt="" width="40" height="40" style=" object-fit: cover;" />
+    <img src="image/bi.png" alt="" width="40" height="40" />
+    <img src="image/excel.png" alt="" width="40" height="40" />
     <br>
 </div>
 <br>
