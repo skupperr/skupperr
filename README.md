@@ -100,7 +100,7 @@
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,gcp" />
+    <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,gcp,docker" />
     <br>
 </div>
 <br>
