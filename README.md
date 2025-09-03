@@ -12,11 +12,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skupperr" alt="skupperr" /></a> </p> -->
 
-- 🌱 I’m currently learning **ML and AI**
+- 🌱 I’m currently learning **ML/AI and working on a project called LifeLens**
 
 - 📫 How to reach me **mylifeasasif@gmail.com**
 
-- ⚡ Fun fact **I'm 21 years old annoying d*ckhead**
+- ⚡ Fun fact **I'm a 21 years old annoying d*ckhead**
 
 <hr/>
 
