@@ -1,0 +1,21 @@
+{
+  "date": "2025-10-20",
+  "summary": "- README.md: 4 changes",
+  "statistics": {
+    "totalFiles": 1,
+    "totalChanges": 4,
+    "mostEditedFile": "README.md",
+    "workDuration": "12h 3m",
+    "fileTypes": {
+      "md": 4
+    },
+    "peakActivityHour": "0:00-1:00",
+    "totalLinesChanged": 488
+  },
+  "projectDetails": {
+    "branch": "unknown",
+    "commitHash": "unknown",
+    "remote": "unknown",
+    "name": "unknown"
+  }
+}
