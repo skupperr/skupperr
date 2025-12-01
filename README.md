@@ -50,7 +50,7 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div>
     <h4>💻 Programming Language 💻</h4>
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css" width="220"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,html,css" width="220"/>
 </div>
 
 <div>
