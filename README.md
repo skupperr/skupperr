@@ -69,7 +69,7 @@
 
 <div>
     <h4>🗄️ Database 🗄️</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" width="63"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" width="300"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxc9Bw0J8d09tD8eIByRoXuQnq3nyn8QGqvw&s" alt="" width="20" height="20" style="border-radius:10px; object-fit: content;" />
 </div>
 
