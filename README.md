@@ -3,25 +3,29 @@
 </h1>
 
 
-<div align="left">
+<div align="center">
     <img
       width="256"
-      align="right"
       src="image/4040.gif"
     />
 </div>
 
-<h4>A passionate AI/ML enthusiast</h4>
+<h4 align="center">Full-stack developer building serious AI systems</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skupperr&label=Profile%20views&color=0e75b6&style=flat" alt="skupperr" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skupperr" alt="skupperr" /></a> </p> -->
+I’m a Computer Science & Artificial Intelligence student focused on building real, end-to-end AI products, not toy demos. I work across the stack- backend APIs, databases, frontend interfaces, and AI pipelines to turn vague ideas into systems that people can actually interact with. My work sits at the intersection of software engineering, system design, and applied machine learning, from scalable backends and async data pipelines to RAG systems, agentic workflows, and AI-powered interfaces.
 
-- 🌱 I’m currently learning **ML and AI**
+I work from first principles. That means breaking problems down, choosing boring-but-solid infrastructure when needed, and using modern AI only where it adds real leverage. I’ve built production-ready Microservice and Monolithic applications with FastAPI, Node.Js, React, PostgreSQL, Redis, vector databases, and battle-tested REST APIs.
 
-- 📫 How to reach me **mylifeasasif@gmail.com**
+Right now, I’m focused on agent workflows, applied ML, and scalable system design, building architectures that handle real traffic, failure, and growth.
 
-- ⚡ Fun fact **I'm 21 years old annoying d*ckhead**
+
+- 🌱 Currently focused on **ML, applied AI engineering and and scalable system design**
+
+- 📫 Reach me at **mylifeasasif@gmail.com**
+
+- ⚡ Fun fact **I’ve learned more from outages than tutorials.**
 
 <hr/>
 
