@@ -142,6 +142,7 @@ Right now, I’m focused on agent workflows, applied ML, and scalable system des
   ![GitHub](https://img.shields.io/badge/GitHub-141321?style=flat-square&logo=github&logoColor=FF355E)
   ![Docker](https://img.shields.io/badge/Docker-141321?style=flat-square&logo=docker&logoColor=FF355E)
   ![Sentry](https://img.shields.io/badge/Sentry-141321?style=flat-square&logo=sentry&logoColor=FF355E)
+  ![HTTPie](https://img.shields.io/badge/HTTPie-141321?style=flat-square&logo=httpie&logoColor=FF355E)
   ![Notion](https://img.shields.io/badge/Notion-141321?style=flat-square&logo=notion&logoColor=FF355E)
     <br>
 </div>
